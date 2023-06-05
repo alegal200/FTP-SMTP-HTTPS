@@ -1,0 +1,6 @@
+# ignore ALL .log files
+*.log
+*.prop
+*.cer
+*.class
+*.jks
